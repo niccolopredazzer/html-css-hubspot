@@ -44,11 +44,13 @@ header {
     max-width: 1200px;
     margin: 0 auto;
     width: 100%;
-    line-height: 50px;
     background-color: white;
 }
 .left {
     float: left;
+}
+.left img {
+    padding-top: 25px;
 }
 .right {
     float: right;
@@ -56,13 +58,12 @@ header {
 .right li {
     list-style: none;
     float: left;
+    padding-top: 20px;
 }
 .contaier-nav-tre {
     width: 100%;
     height: 75px;
     background-color: #425b76;
-    position: relative;
-    top: 30px;
 }
 .homepage {
     height: 700px;
