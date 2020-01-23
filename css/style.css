@@ -8,3 +8,33 @@
     display: table;
     clear: both;
 }
+header {
+    width: 100%;
+}
+.contaier-nav-uno {
+    width: 100%;
+    height: 75px;
+    background-color: #f5f8fa;
+    border-bottom: 1px solid #cbd6e2;
+    position: fixed;
+}
+.contaier-nav-due {
+    width: 100%;
+    height: 75px;
+    background-color: white;
+    position: relative;
+    top: 75px;
+}
+.contaier-nav-tre {
+    width: 100%;
+    height: 75px;
+    background-color: #425b76;
+    position: relative;
+    top: 75px;
+}
+.homepage {
+    height: 900px;
+    background-color: #fff5ef;
+    margin-top: 75px;
+    border-bottom: 3px solid #33475b;
+}
