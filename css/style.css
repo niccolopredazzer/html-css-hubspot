@@ -43,7 +43,6 @@ header {
     width: 80%;
     max-width: 1200px;
     margin: 0 auto;
-    width: 100%;
     background-color: white;
 }
 .left {
@@ -60,15 +59,35 @@ header {
     float: left;
     padding-top: 20px;
 }
-.contaier-nav-tre {
-    width: 100%;
-    height: 75px;
+.fullwidth-container-tre {
     background-color: #425b76;
+    line-height: 20px;
+}
+.contaier-nav-tre {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+    height: 75px;
+}
+.promo-left {
+    float: left;
+}
+.promo-left p {
+    padding: 20px;
+    width: 90%;
+    color: white;
+}
+.promo-right {
+    float: right;
+}
+.promo-right button {
+    position: relative;
+    bottom: 50px;
+
 }
 .homepage {
     height: 700px;
     background-color: #fff5ef;
-    margin-top: 75px;
     border-bottom: 3px solid #33475b;
 }
 .middle {
