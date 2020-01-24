@@ -196,3 +196,66 @@ h1 {
 .powerful p {
     font-size: 16px;
 }
+.horizontal-card {
+    width: 80%;
+    background-color: white;
+    height: 300px;
+    position: relative;
+    top: 200px;
+    left: 100px;
+    text-align: center;
+}
+.horizontal-card img {
+    width: 150px;
+    height: 150px;
+}
+.left-card{
+    width: 30%;
+    margin-top: 30px;
+    float: left;
+    text-align: center;
+    padding: 0 10%;
+}
+.left-card button {
+    background-color: #ff8f73;
+    position: relative;
+    top: 30px;
+    left: 10px;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.right-card {
+    width: 70%;
+    height: 100%;
+    float: right;
+    text-align: left;
+}
+.right-card h4  {
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 1.3636;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    color: #33475b;
+}
+.right-card p {
+    font-size: 14px;
+    color: #33475b;
+    margin-bottom: 30px;
+}
+.right-card strong {
+    color: #33475b;
+    font-size: 16px;
+}
+.right-card ul {
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 20px;
+}
+.right-card li {
+    text-decoration: none;
+    display: inline-block;
+}
+.right-card i {
+    color: #ff7a59;
+}
