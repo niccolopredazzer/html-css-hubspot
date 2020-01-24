@@ -181,7 +181,6 @@ h1 {
 .middle {
     height: 1500px;
     background-color: #f5f8fa;
-
 }
 .powerful {
     text-align: center;
@@ -337,4 +336,25 @@ h1 {
 }
 .content-card button:hover {
     cursor: pointer;
+}
+.container-fullwidth-azzurro {
+    height: 700px;
+    background-color: #00adb5;
+}
+.text-azzurro {
+    max-width: 1000px;
+    text-align: center;
+}
+.text-azzurro h2 {
+    color: white;
+    padding-top: 200px;
+    margin-left: 100px;
+    font-weight: 700;
+    line-height: 1.3125;
+    font-size: 36px;
+}
+.text-azzurro p {
+    color: white;
+    margin-left: 100px;
+    padding-top: 60px;
 }
