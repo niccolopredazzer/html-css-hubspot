@@ -338,7 +338,7 @@ h1 {
     cursor: pointer;
 }
 .container-fullwidth-azzurro {
-    height: 700px;
+    height: 900px;
     background-color: #00adb5;
 }
 .text-azzurro {
@@ -347,15 +347,39 @@ h1 {
 }
 .text-azzurro h2 {
     color: white;
-    padding-top: 200px;
-    margin-left: 100px;
+    padding-top: 100px;
+    margin-left: 150px;
     font-weight: 700;
     line-height: 1.3125;
     font-size: 36px;
 }
 .text-azzurro p {
     color: white;
-    margin-left: 100px;
+    margin-left: 150px;
     padding-top: 60px;
     font-size: 16px;
+    margin-bottom: 70px;
+}
+.square {
+    width: 25%;
+    height: 200px;
+    float: left;
+    padding: 20px;
+    text-align: center;
+}
+.one, .two, .three, .five, .six, .seven {
+    border-right: 1px solid white;
+}
+.one, .two, .three, .four  {
+    border-bottom: 1px solid white;
+}
+.square h3 {
+    font-size: 40px;
+    color: white;
+    font-weight: 700;
+}
+.square {
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
 }
