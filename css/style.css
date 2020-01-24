@@ -131,7 +131,7 @@ header {
     background-color: #fff5ef;
     border-bottom: 3px solid #33475b;
     position: relative;
-    top: 30px;
+    top: 20px;
 }
 .container {
     width: 80%;
@@ -140,7 +140,7 @@ header {
 }
 .text {
     width: 40%;
-    margin-top: 90px;
+    margin-top: 80px;
     float: left;
 }
 h1 {
@@ -176,4 +176,23 @@ h1 {
 .middle {
     height: 1000px;
     background-color: #f5f8fa;
+
+}
+.powerful {
+    text-align: center;
+    position: relative;
+    top: 125px;
+}
+.powerful img {
+    width: 260px;
+}
+.powerful h2 {
+    line-height: 1.3125;
+    color: #33475b;
+    margin-bottom: 20px;
+    font-size: 32px;
+    font-weight: 700;
+}
+.powerful p {
+    font-size: 16px;
 }
