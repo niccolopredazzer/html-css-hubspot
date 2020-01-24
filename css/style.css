@@ -262,9 +262,19 @@ h1 {
 }
 .cards {
     width: 33.3333%;
-    height: 600px;
     float: left;
     text-align: center;
+
     padding: 10px;
+    background-color: #f5f8fa;
+}
+.content-card {
+    height: 500px;
+    margin-top: 10px;
     background-color: white;
+}
+.cards img {
+    width: 100%;
+    height: 150px;
+    margin-top: 40px;
 }
