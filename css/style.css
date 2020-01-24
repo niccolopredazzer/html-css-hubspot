@@ -174,7 +174,7 @@ h1 {
     top: 20px;
 }
 .middle {
-    height: 1000px;
+    height: 1500px;
     background-color: #f5f8fa;
 
 }
@@ -259,4 +259,12 @@ h1 {
 }
 .right-card i {
     color: #ff7a59;
+}
+.cards {
+    width: 33.3333%;
+    height: 600px;
+    float: left;
+    text-align: center;
+    padding: 10px;
+    background-color: white;
 }
