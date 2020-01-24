@@ -203,7 +203,7 @@ h1 {
     position: relative;
     top: 200px;
     left: 100px;
-    text-align: center;
+    border-radius: 3px;
 }
 .horizontal-card img {
     width: 150px;
@@ -223,6 +223,7 @@ h1 {
     left: 10px;
     padding: 10px 20px;
     border-radius: 5px;
+    color: white;
 }
 .right-card {
     width: 70%;
