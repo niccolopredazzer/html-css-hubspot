@@ -503,6 +503,7 @@ footer {
     color: #334760;
     font-weight: 700;
     border: 1px solid #334760;
+    margin-top: 15px;
 }
 .social  {
     width: 16%;
@@ -513,4 +514,54 @@ footer {
     color: #cbd6e2;
     font-weight: 500;
     font-size: 20px;
+}
+.lingue {
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 30px;
+    border-bottom:
+}
+.lista ul {
+    display: inline-block;
+}
+.lista li {
+    float: left;
+    padding: 10px;
+    list-style-type: none;
+}
+.lista a {
+    text-decoration: none;
+    color: #cbd6cc;
+}
+.lista a:hover {
+    color: azure;
+}
+.fine-header {
+    padding-top: 30px;
+    border-top: 1px solid #7c98b6;
+}
+.fine-left {
+    width: 50%;
+    float: left;
+}
+.fine-right {
+    width: 50%;
+    float: right;
+    text-align: right;
+}
+.fine-left p {
+    font-size: 12px;
+    font-weight: 300;
+    color: #cbd6e2;
+    padding-top: 10px;
+}
+.fine-right a {
+    text-decoration: none;
+    color: #cbd6cc;
+    padding: 10px;
+}
+.fine-right a:hover {
+    color: azure;
 }
