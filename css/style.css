@@ -377,9 +377,49 @@ h1 {
     font-size: 40px;
     color: white;
     font-weight: 700;
+    padding-top: 10px;
 }
 .square p {
     color: white;
     font-size: 15px;
     font-weight: 400;
+}
+.container-white-two {
+    height: 600px;
+    background-color: white;
+}
+.banner-uno {
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 130px;
+}
+.text-sinistro {
+    width: 30%;
+    float: left;
+}
+.text-sinistro h2 {
+    font-size: 40px;
+    font-weight: 900;
+    color: #33475b;
+    padding: 20px 0;
+}
+.text-sinistro {
+    color: #425b76;
+    font-size: 20px;
+    line-height: 1.5;
+}
+.immagini-destro img {
+    width: 110px;
+    vertical-align: middle;
+}
+.immagini-destro {
+    width: 70%;
+    float: right;
+    padding-left: 20px;
+}
+.photo {
+    width: 25%;
+    height: 80px;
+    line-height: 80px;
+    float: left;
 }
