@@ -273,7 +273,6 @@ h1 {
     width: 33.3333%;
     float: left;
     text-align: center;
-
     padding: 10px;
     background-color: #f5f8fa;
 }
@@ -504,6 +503,9 @@ footer {
     font-weight: 700;
     border: 1px solid #334760;
     margin-top: 15px;
+}
+.bottone button {
+    cursor: pointer;
 }
 .social  {
     width: 16%;
