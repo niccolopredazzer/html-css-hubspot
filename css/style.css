@@ -385,7 +385,7 @@ h1 {
     font-weight: 400;
 }
 .container-white-two {
-    height: 600px;
+    height: 900px;
     background-color: white;
 }
 .banner-uno {
@@ -420,6 +420,52 @@ h1 {
 .photo {
     width: 25%;
     height: 80px;
-    line-height: 80px;
+    line-height: 110px;
     float: left;
+}
+.banner-due {
+    margin-top: 150px;
+}
+.start-growing {
+    width: 60%;
+    float: left;
+}
+.start-growing h2 {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 1.3125;
+    color: #33475b;
+}
+.start-growing p {
+    color: #425b76;
+    line-height: 1.7;
+    padding: 30px 0;
+}
+.start-growing button {
+    font-size: 16px;
+    padding: 25px 45px;
+    background-color: #ff7a59;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    display: block;
+    border: 1px solid #ff7a59;
+    margin-bottom: 20px;
+}
+.start-growing button:hover {
+    cursor: pointer;
+}
+.start-growing small {
+    padding-top: 20px;
+    color:#516f90;
+    font-size: 12px;
+    line-height: 1.5;
+}
+.immagine-face {
+    width: 40%;
+    float: right;
+}
+.immagine-face img {
+    height: 350px;
+    margin-left: 100px;
 }
