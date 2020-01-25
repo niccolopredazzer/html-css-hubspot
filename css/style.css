@@ -491,5 +491,26 @@ footer {
 .card a {
     text-decoration: none;
     color: #cbd6c8;
-
+}
+.contenitore {
+    width: 25%;
+    float: right;
+}
+.bottone button {
+    border-radius: 5px;
+    padding: 8px 10px;
+    background-color: white;
+    color: #334760;
+    font-weight: 700;
+    border: 1px solid #334760;
+}
+.social  {
+    width: 16%;
+    float: left;
+    padding-top: 30px;
+}
+.social i {
+    color: #cbd6e2;
+    font-weight: 500;
+    font-size: 20px;
 }
