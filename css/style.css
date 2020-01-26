@@ -15,7 +15,7 @@ body {
     line-height: 50px;
     background-color: #f5f8fa;
     border-bottom: 1px solid #cbd6e2;
-    
+
 }
 .contaier-nav-uno {
     width: 80%;
@@ -281,7 +281,6 @@ h1 {
     background-color: #f5f8fa;
 }
 .content-card {
-    height: 550px;
     margin-top: 10px;
     background-color: white;
 }
