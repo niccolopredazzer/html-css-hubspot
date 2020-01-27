@@ -34,7 +34,7 @@ body {
 }
 header {
     width: 100%;
-    height: 75px;    
+    height: 75px;
     position: fixed;
     top: 0;
     bottom: 0;
@@ -180,6 +180,10 @@ h1 {
     position: relative;
     top: 20px;
 }
+.casa-destra {
+    float: right;
+}
+
 .middle {
     height: 1500px;
     background-color: #f5f8fa;
@@ -275,8 +279,18 @@ h1 {
     width: 33.3333%;
     float: left;
     text-align: center;
-    padding: 10px;
     background-color: #f5f8fa;
+}
+.cards:first-child {
+    padding-right: 10px;
+    padding-left: 0;
+}
+.cards:nth-child(2n) {
+    padding-left: 10px;
+}
+.cards:last-child {
+    padding-left: 10px;
+    padding-right: 0;
 }
 .content-card {
     margin-top: 10px;
